@@ -49,9 +49,9 @@ ASSUMPTIONS
 
 TECHNOLOGY STACK
 1. Java
-2. Eclipse Neon 4.6.0
+2. Eclipse 
 3. MySQL Workbench
-4. Postman for Chrome: Version 4.10.5
+4. Postman for Chrome
 
 
 DESIGN DISCUSSION
